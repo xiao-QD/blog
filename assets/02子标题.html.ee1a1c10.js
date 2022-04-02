@@ -1,0 +1,1 @@
+const t={key:"v-dc358d64",path:"/mianshi/02%E5%AD%90%E6%A0%87%E9%A2%98.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648916771e3,contributors:[{name:"wang",email:"1422581843@qq.com",commits:1}]},filePathRelative:"mianshi/02\u5B50\u6807\u9898.md"};export{t as data};

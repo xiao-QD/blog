@@ -1,0 +1,1 @@
+const e={key:"v-6fc15a3d",path:"/mianshi/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"hello",slug:"hello",children:[]}],git:{updatedTime:1648916771e3,contributors:[{name:"wang",email:"1422581843@qq.com",commits:1}]},filePathRelative:"mianshi/README.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-5e7a62c4",path:"/mianshi/getting-started.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"hello",slug:"hello",children:[]}],git:{updatedTime:1648916771e3,contributors:[{name:"wang",email:"1422581843@qq.com",commits:1}]},filePathRelative:"mianshi/getting-started.md"};export{t as data};

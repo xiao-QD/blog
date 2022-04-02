@@ -1,0 +1,1 @@
+const e={key:"v-77cb9114",path:"/other/01if-else%E4%BC%98%E5%8C%96.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648916771e3,contributors:[{name:"wang",email:"1422581843@qq.com",commits:1}]},filePathRelative:"other/01if-else\u4F18\u5316.md"};export{e as data};
